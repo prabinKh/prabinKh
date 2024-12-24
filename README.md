@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prabinKh
+- 👋 Hi, I’m @prabin khadka
 - 👀 I’m interested in AI 
 - 🌱 I’m currently learning AI
 
