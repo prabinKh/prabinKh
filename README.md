@@ -27,6 +27,6 @@ You can click the Preview link to take a look at your changes.
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prabinKh&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)])
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prabinKh&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
 
