@@ -2,6 +2,7 @@
 - 👀 I’m interested in AI 
 - 🌱 I’m currently learning AI
 
+https://prabinkh.github.io/Prabin-khadka-portfolio/
 
 <!---
 prabinKh/prabinKh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
